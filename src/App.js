@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <Nav/>
       <Switch>
-        <Route exact path="/">
+        <Route path="/">
           <Holis/>
         </Route>
         <Route path="/holis2">
