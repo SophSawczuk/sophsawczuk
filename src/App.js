@@ -2,7 +2,7 @@ import './App.css';
 import Nav from './Components/nav';
 import { Route, Switch } from "react-router-dom";
 import Holis from './Components/holis.jsx'
-import Holis2 from './Components/holis2';
+import Holis2 from './Components/holis2.jsx';
 
 
 function App() {
@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <Nav/>
       <Switch>
-        <Route path="/">
+        <Route exact path="/">
           <Holis/>
         </Route>
         <Route path="/contacto">

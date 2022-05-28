@@ -2,13 +2,15 @@
 import MeImage from "./Me.jpg"
 import style from "./nav.module.css"
 import CV from "./Sawczuk Sofia - CV.pdf"
+import {Link} from "react-router-dom"
+
 
 
 
 function AboutMe() {
     return(
         <div className={style.acercaDe}>  
-            <img className={style.foto} src={MeImage}></img>
+            <img className={style.foto} src={MeImage} alt="Foto"></img>
             <div className={style.acercaDetalle}>
                 <h2>Acerca de mi</h2>
                 <p className={style.estudiante}>Estudiante de Ingeniería Informática</p>
@@ -23,6 +25,9 @@ function AboutMe() {
                     <a href="./contacto">
                         <button>Contacta conmigo</button>
                     </a>
+                    {/* <Link to="/contacto" >
+                        <button>Contacta conmigo</button>
+                    </Link> */}
                 </div>
             </div>
             

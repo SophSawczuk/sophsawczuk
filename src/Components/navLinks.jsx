@@ -17,7 +17,7 @@ function NavLinks (props) {
             <Link to="/" onClick={() => props.isMobile && props.closeMobileMenu()}>
                 Home
             </Link>
-            <Link to="/holis2" onClick={() => props.isMobile && props.closeMobileMenu()}>
+            <Link to="/contacto" onClick={() => props.isMobile && props.closeMobileMenu()}>
                 Contacto
             </Link>
             

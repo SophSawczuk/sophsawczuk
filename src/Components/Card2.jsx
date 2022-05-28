@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import { SwitchTransition, CSSTransition } from "react-transition-group";
 import style from "./nav.module.css"
-import {AiOutlineCoffee} from "react-icons/ai"
 import {MdArrowBack} from "react-icons/md"
 import {MdArrowForward} from "react-icons/md"
 import CardData from "./CardData";
