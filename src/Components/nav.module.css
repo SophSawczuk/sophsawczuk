@@ -134,103 +134,7 @@
 
 /* Estilos de la PÁGINA 2 */
 
-/* .Holis2 {
-    position: relative;
-    min-height: 100vh;
-    padding: 50px 100px;
-    display: flex;
-    justify-content:space-between;
-    align-items:center; 
-    flex-direction: column;
-    background-color: grey;
-    background-size: cover;
-}
 
-.Holis2 .content {
-    max-width: 800px;
-    text-align: center;
-}
-
-.Holis2 .content h2 {
-    font-size: 36px;
-    font-weight: 500;
-}
-
-.Holis2 .content p {
-    font-weight: 300;
-}
-
-.contenedor {
-    width: 100%;
-    display: flex;
-    justify-content: left;
-    align-items: left;
-    margin-top: 30px;
-    flex-direction: column;
-}
-
-.tomaOtroDiv {
-    width: 50%;
-    display: flex;
-}
-
-.caja {
-    position: relative;
-    padding: 20px 0;
-    display: flex;
-} */
-
-/* .content {
-    width: 100%;
-    text-align: center;
-}
-
-.content p {
-    max-width: 80%;
-    align-items: center;
-    text-align: center;
-    position: relative;
-    margin: auto;
-}
-
-.tomaOtroDiv {
-    display: flex;
-}
-
-.contenedor {
-    width: 45%;
-    align-items: center;
-    text-align: center;
-}
-
-.contactForm {
-    width: 50%;
-    padding: 40px;
-    align-items: center;
-    text-align: center;  
-    margin-top: 50wh;
-    background-color: grey;
-}
-
-.inputBox {
-    /* display: flex;
-    flex-direction: column; */
-   /*  width: 100%; */
-    /* align-items: center; */
-/*     margin-top: 10px;
-    position: relative;
-
-} */
-
-/* .inputBox input {
-    width: 100%;
-    padding: 5px 0;
-    font-size: 16px;
-    margin: 10px 0;
-    border: none;
-    border-bottom: 2px solid #333;
-    outline: none;
-} */
 
 .contenedor2 {
     padding: 1.3rem;
@@ -304,6 +208,7 @@
     padding: 1rem 4rem;
     border-radius: 5px;
     cursor: pointer;
+    margin-bottom: 30px;
 
 }
 
@@ -327,6 +232,60 @@
 }
 .contactSectionWrapper h2 {
     display: none;
+}
+
+/* Estilos CARDS */
+.card {
+    width: 30vw;
+    background-color: white;
+    text-align: center;
+    margin: 10px;
+    box-shadow: 3px 3px 5px 2px #999;
+}
+
+
+
+.cards {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.contenedor3 {
+    background-color: #e7e7e7;
+    justify-content: center;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+.card p {
+    padding-left: 5vw;
+    padding-right: 5vw;
+    padding-bottom: 2vw;
+}
+
+.icon2 {
+    margin-top: 30px;
+}
+
+.container4, .arrows {
+    display: none;
+}
+
+footer {
+    height: 10vw;
+    background-color: rgb(44, 44, 44);
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color:#727272;
+    padding-top: 2.5%;
+}
+
+footer p {
+    position: absolute;
+    
 }
 
 @media (max-width: 500px) {
@@ -450,6 +409,74 @@
         color: white;
     }
 
+    .contenedor3 {
+        display: none;
+    }
+
+    .container4 {
+        /* padding: 5rem 0; */
+        padding-top: 5rem;
+        padding-bottom: 1rem;
+        text-align: center;
+        position: relative;
+        max-width: 700px;
+        /* margin: 0 auto; */
+        background-color: #e7e7e7;
+        margin-top: 70vh;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+        display:block;
+    }
+
+    .testimonial {
+        width: 80%;
+        height: fit-content;
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+        background-color: white;
+        border-radius: 12px;
+       /*  margin-top: 5rem; */
+       align-items: center;
+       text-align: center;
+       justify-content: center;
+       margin-right: 0;
+       margin-left: 10%;
+    
+    }
+
+    .testimonial p {
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+    .arrows {
+       /*  margin-top: 2rem; */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: #e7e7e7;
+        padding-bottom: 3rem ;
+    }
+
+    .arrows svg {
+        width: 30px;
+        pointer-events: none;
+        color: white;
+    }
+
+    .next, .prev {
+        margin: 0 0.5rem;
+        width: fit-content;
+        background-color: rgb(112, 111, 111);
+        padding: 0.5rem 2rem;
+        border-radius: 8px;
+        cursor: pointer;
+    }
+
+   
+
+    
 
    
 }

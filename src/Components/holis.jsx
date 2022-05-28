@@ -1,5 +1,8 @@
 import style from "./nav.module.css"
 import AboutMe from "./AboutMe"
+import Card from "./Card"
+import Card2 from "./Card2"
+
 
 
 
@@ -15,7 +18,15 @@ function Holis() {
             <div className={style.AboutMe}>
                  <AboutMe/>
             </div>
-
+            <div>
+                <Card/>
+            </div>
+            <div>
+                <Card2/>
+            </div>
+            <footer>
+                Creado por Sofia Sawczuk - 2022
+            </footer>
             
             
            
