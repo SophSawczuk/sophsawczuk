@@ -289,6 +289,10 @@ footer p {
     
 }
 
+.estaMierda {
+    display: none;
+}
+
 @media (max-width: 500px) {
 
     /* Estilos del NAV */
