@@ -13,6 +13,9 @@ function App() {
         <Route exact path="/">
           <Holis/>
         </Route>
+        <Route path="/sophsawczuk">
+          <Holis/>
+        </Route>
         <Route path="/contacto">
           <Holis2/>
         </Route>
