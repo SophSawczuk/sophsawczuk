@@ -13,7 +13,7 @@ function App() {
         <Route path="/">
           <Holis/>
         </Route>
-        <Route path="/holis2">
+        <Route path="/contacto">
           <Holis2/>
         </Route>
       </Switch>

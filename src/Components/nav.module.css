@@ -90,7 +90,7 @@
 
 .foto {
     height: 50vh;
-    width: auto;
+
 }
 
 .acercaDe {
@@ -360,7 +360,7 @@ footer p {
 
     .foto {
         height: 50vh;
-        width:fit-content;
+        width: auto;
     }
 
     .botones {

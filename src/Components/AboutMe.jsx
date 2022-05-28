@@ -20,7 +20,7 @@ function AboutMe() {
                     <a href={CV} download={"Sawczuk-Sofia-CV.pdf"}> 
                         <button>Descargar CV</button>
                     </a>
-                    <a href="./holis2">
+                    <a href="./contacto">
                         <button>Contacta conmigo</button>
                     </a>
                 </div>
