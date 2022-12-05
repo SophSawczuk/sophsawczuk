@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="C:\Users\Usuario\Documents\sophsawczuk\src\Components\Soph.png" />
+  <img src="https://github.com/SophSawczuk/sophsawczuk/blob/master/public/Soph.png">
+ 
  
 </p>
   
