@@ -1,5 +1,5 @@
 <p align="center">
-  <img src= "https://www.canva.com/design/DAFT7ZWH7-8/view" />
+  <img src="C:\Users\Usuario\Documents\sophsawczuk\src\Components\Soph.png" />
  
 </p>
   
