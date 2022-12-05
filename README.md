@@ -1,20 +1,26 @@
 <p align="center">
-  <img src="https://www.canva.com/design/DAFT7ZWH7-8/view"/>
+  <img src= "https://www.canva.com/design/DAFT7ZWH7-8/view" />
  
 </p>
   
 
 ### 👋 Hi ! 
   
-:heart: Programming | :airplane: Travel | :blue_heart: Anime
+:heart: Programación | :airplane: Viajar | :notebook: Estudios
   
-I am a Second Year Informatic Engineering Student at UNMDP. I Love 
+¡Hola! Me presento, soy desarrolladora web full-stack, tenaz y con iniciativa. Cuento con una gran habilidad para trabajar en equipo, tengo intereses personales en liderazgo y ventas y me apasiona viajar. 
+Durante mis estudios en desarrollo web ideé y desarrollé una aplicación para reservas de un hostel, encontrando soluciones efectivas a problemáticas reales. Tengo experiencia trabajando con API’s, NodeJS, React, Redux, SQL entre otras tecnologías del sector. 
+Cursar ingeniería me preparó para ser una persona resolutiva, responsable y creativa.
 
-- 🔭 I’m currently working on Sign Language Translator to Malayalam Application using Flutter and Python.
-- 🌱 I’m currently learning Data Science | Full Stack Web development | App Development | NLP | Cyber Security
-- 👯 I’m looking to collaborate on Machine Learning and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💬 Ask me about anything. I will try to help you as much as I can.
-- ⚡ Quote: There is always time. You just have to find it.
+
+- 🌱 Actualmente estoy estudiando ingeniería informática.
+- 🔭 Estoy buscando colaborar en proyectos de desarrollo web.
+- :book: Constantemente aprendiendo sobre PNL, ventas y liderazgo.
+- ⚡ Quote: "Sólo hay una cosa que no soporto: no avanzar". 
 - 📫 How to reach me:
+      Email: sofiasawczuka@gmail.com
+      WhatsApp: +54 223 504-7367
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Amchuz) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](www.linkedin.com/in/sofia-sawczuk) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](sofiasawczuka@gmail.com)
+¡Gracias por leer!
+
+
