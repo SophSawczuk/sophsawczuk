@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "http://sophsawczuk.github.io/sophsawczuk",
   "dependencies": {
+    "@emailjs/browser": "^3.10.0",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
     "@testing-library/user-event": "^13.5.0",
@@ -20,10 +21,11 @@
     "react-transition-group": "^4.4.2",
     "redux": "^4.2.0",
     "styled-components": "^5.3.5",
+    "sweetalert2": "^11.6.16",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy":"npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",

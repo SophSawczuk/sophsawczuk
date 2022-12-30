@@ -27,7 +27,7 @@ function Card() {
                 <div className={style.card}>
                     <IoLanguageOutline className={style.icon2} size="25px"/>
                     <h4>Idiomas</h4>
-                    <p>Inglés, nivel intermedio</p>
+                    <p>Inglés, nivel avanzado (C1)</p>
                 </div>
             </div>
             <div className={style.cards}>
@@ -40,13 +40,13 @@ function Card() {
                 <div className={style.card}>
                     <BsFileEarmarkCodeFill className={style.icon2} size="25px"/>
                     <h4>Desarrollo Web</h4>
-                    <p>Front-End, Back-End (NODE) y manejo de bases de datos (SQL)</p>
+                    <p>Front-End, Back-End (Node.js y Express) y manejo de bases de datos (PostrgreSQL y Sequelize)</p>
                 </div>
 
                 <div className={style.card}>
                     <VscTools className={style.icon2} size="25px"/>
                     <h4>Otras Herramientas</h4>
-                    <p>Github y Slack</p>
+                    <p>Github, Slack, Figma, SCRUM</p>
                 </div>
             </div>
         </div>

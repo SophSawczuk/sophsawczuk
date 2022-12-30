@@ -155,6 +155,11 @@
     padding-right: 15px;
 }
 
+.contenedor2 a {
+    text-decoration:none;
+    color: white;
+}
+
 .iconos {
     color: white;
     background-color: rgb(80, 78, 78);
@@ -175,6 +180,7 @@
     margin-right: 5%; */
     
 }
+
 
 .contenedorDelForm label {
     font-size: 1.2rem;
@@ -233,6 +239,11 @@
 }
 .contactSectionWrapper h2 {
     display: none;
+}
+
+.Alert {
+    font-size: 15px;
+    color: red;
 }
 
 /* Estilos CARDS */

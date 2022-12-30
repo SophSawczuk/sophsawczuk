@@ -1,0 +1,30 @@
+.Container {
+    height: 300%;
+    background-color: white;
+}
+
+.Title {
+    text-align: center;
+    margin-top: 5vh;
+}
+
+.Card {
+    background-color: #242424;;
+    color: white;
+    display: flex;
+    height: 50vh;
+    width: 75vw;
+    padding: 15vh 0 10vh 5vw;
+    margin: 5vh 0 0 10vw;
+    box-shadow: 3px 3px 5px 2px #999;
+}
+
+.Detail {
+    width: 40vw;
+    padding-left: 5vw;
+    text-align: left;
+}
+
+.Anti {
+    text-align: right;
+}
