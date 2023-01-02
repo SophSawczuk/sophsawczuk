@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/sophsawczuk/static/css/main.ffc19d97.css",
-    "main.js": "/sophsawczuk/static/js/main.ef607f9a.js",
+    "main.css": "/sophsawczuk/static/css/main.4b10c511.css",
+    "main.js": "/sophsawczuk/static/js/main.fbad7a78.js",
     "static/js/787.dc6772c7.chunk.js": "/sophsawczuk/static/js/787.dc6772c7.chunk.js",
-    "static/media/Sawczuk Sofia - CV.pdf": "/sophsawczuk/static/media/Sawczuk Sofia - CV.86890495c745c3435a70.pdf",
     "static/media/Me.jpg": "/sophsawczuk/static/media/Me.4513f84d5f28c7539fe4.jpg",
+    "static/media/CV-Sawczuk-Sofia.pdf": "/sophsawczuk/static/media/CV-Sawczuk-Sofia.584b32914079355af760.pdf",
     "static/media/Fondo2.jpg": "/sophsawczuk/static/media/Fondo2.62ef3297928b836f1122.jpg",
     "index.html": "/sophsawczuk/index.html",
-    "main.ffc19d97.css.map": "/sophsawczuk/static/css/main.ffc19d97.css.map",
-    "main.ef607f9a.js.map": "/sophsawczuk/static/js/main.ef607f9a.js.map",
+    "main.4b10c511.css.map": "/sophsawczuk/static/css/main.4b10c511.css.map",
+    "main.fbad7a78.js.map": "/sophsawczuk/static/js/main.fbad7a78.js.map",
     "787.dc6772c7.chunk.js.map": "/sophsawczuk/static/js/787.dc6772c7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ffc19d97.css",
-    "static/js/main.ef607f9a.js"
+    "static/css/main.4b10c511.css",
+    "static/js/main.fbad7a78.js"
   ]
 }
