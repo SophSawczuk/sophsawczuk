@@ -15,12 +15,14 @@ I'm passionate about creating digital solutions that help people **showcase thei
 ### 💻 Main Stack  
 - React  
 - JavaScript  
-- HTML / CSS  
+- HTML / CSS
+- Figma
 
 ---
 
 ### 🚀 Currently  
 Working on  **[Mountains Development](https://mountainsdevelopment.com/)** , my personal web development project.  
+Open to work.
 
 ---
 
@@ -29,9 +31,11 @@ Working on  **[Mountains Development](https://mountainsdevelopment.com/)** , my 
 - Passionate about travel and the digital nomad lifestyle  
 - Always eager to learn and create meaningful projects  
 
-- 📫 How to reach me:
-      Email: sofiasawczuka@gmail.com
-      WhatsApp: +39 344 652-7688 
+---
+
+📫 How to reach me:
+    Email: sofiasawczuka@gmail.com
+     WhatsApp: +39 344 652-7688 
 
 
 
