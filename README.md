@@ -20,7 +20,7 @@ I'm passionate about creating digital solutions that help people **showcase thei
 ---
 
 ### 🚀 Currently  
-Working on **Mountains Development**, my personal web development project.  
+Working on  **[Mountains Development](https://mountainsdevelopment.com/)** , my personal web development project.  
 
 ---
 
@@ -31,7 +31,7 @@ Working on **Mountains Development**, my personal web development project.
 
 - 📫 How to reach me:
       Email: sofiasawczuka@gmail.com
-      WhatsApp: +54 223 504-7367
+      WhatsApp: +39 344 652-7688 
 
 
 
